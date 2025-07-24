@@ -18,7 +18,7 @@ replace github.com/tyler-smith/go-bip32 => github.com/gojuukaze/go-bip32 v1.0.0
    You can also import this fork directly using:
 
 ```bash
-go get github.com/your-username/go-bip32
+go get github.com/gojuukaze/go-bip32
 ```
 
 # Original README
