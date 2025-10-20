@@ -1,12 +1,12 @@
-module github.com/gojuukaze/go-bip32
+module github.com/tyler-smith/go-bip32
 
-go 1.24
+go 1.24.0
 
 require (
 	github.com/FactomProject/basen v0.0.0-20150613233007-fe3947df716e
 	github.com/FactomProject/btcutilecc v0.0.0-20130527213604-d3a63a5752ec
-	github.com/stretchr/testify v1.10.0
-	golang.org/x/crypto v0.40.0
+	github.com/stretchr/testify v1.11.1
+	golang.org/x/crypto v0.43.0
 )
 
 require (
